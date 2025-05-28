@@ -1,0 +1,6 @@
+
+["Controller Tweaks"]
+	#Display the scale in the Controller as blocks instead of a multiplier
+	#Default is true
+	displayAsBlocks = true
+
